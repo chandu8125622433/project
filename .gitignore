@@ -51,8 +51,20 @@ pnpm-debug.log*
 Thumbs.db
 
 # =========================
-# Temporary / Test output
+# Test / Generated Output
 # =========================
 playwright-report/
 test-results/
 coverage/
+
+# =========================
+# Project Debug / Temporary Files
+# =========================
+_recon/
+app.js.fixed
+null
+playwright-err.txt
+playwright-out.txt
+playwright-output.txt
+test-output.txt
+test-result.txt
